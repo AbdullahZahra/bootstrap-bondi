@@ -8,7 +8,6 @@
 
 body {
   font-family: "Roboto", sans-serif;
-  height: 10000px;
 }
 
 .main-btn {
@@ -195,3 +194,17 @@ body {
   color: var(--yellow-color);
 }
 /* End Subscribe */
+
+/* Start Footer */
+.footer {
+  background-color: var(--dark-color);
+}
+
+.footer .copyright > span {
+  color: var(--green-color);
+}
+
+.footer .copyright div span {
+  color: var(--yellow-color);
+}
+/* End Footer */
